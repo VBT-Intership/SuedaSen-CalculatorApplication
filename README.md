@@ -1,4 +1,4 @@
-# SuedaSen-Calculator Application
+# Süeda Şen -Calculator Application
 
 ## Purpose
 
